@@ -1,6 +1,6 @@
-# b
+# blog_forum
 
-> A Vue.js project
+> A forum base Vue
 
 ## Build Setup
 
